@@ -1,7 +1,7 @@
 ## Bloombugs HMAR Application
 
-![](photos/photos/bloombugslogo.png)
-![](photos/photos/photos/kahukailogo.png)
+![](photos/bloombugslogo.png)
+![](photos/kahukailogo.png)
 
 ## Table of contents
 
