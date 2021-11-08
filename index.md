@@ -1,8 +1,7 @@
 ## Bloombugs HMAR Application
 
-<img class="ui centered mini image" src="photos/bloombugslogo.png">
-<img class="ui centered mini image" src="photos/kahukailogo.png">
-
+![](photos/photos/bloombugslogo.png)
+![](photos/photos/photos/kahukailogo.png)
 
 ## Table of contents
 
