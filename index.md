@@ -34,6 +34,8 @@ Allows user to store the information about the user.
 
 After logging in as a public user, you are taken to public user landing page which will display three buttons: Animal in distress, Animal sighting, and More information. The enter a new report page for the admin user will redircted to this page.
 
+<img src="photos/mock">
+
 ### Animal in Distress
 
 This will show HMAR's phone number.
