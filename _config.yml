@@ -1,0 +1,10 @@
+title: Bloombugs HMAR Application
+description: Web Application developed for HMAR
+google_analytics:
+show_downloads: false
+theme: jekyll-theme-cayman
+github:
+  is_project_page: true
+  repository_url: https://github.com/bloombugs/bloombugs.github.io
+gems:
+  - jekyll-mentions

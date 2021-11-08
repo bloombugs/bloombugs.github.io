@@ -1,3 +1,5 @@
+## Bloombugs HMAR Application
+
 ## Table of contents
 
 * [Overview](#overview)
@@ -34,11 +36,13 @@ Allows user to store the information about the user.
 
 After logging in as a public user, you are taken to public user landing page which will display three buttons: Animal in distress, Animal sighting, and More information. The enter a new report page for the admin user will redircted to this page.
 
-<img src="photos/mock">
+![](images/mockphoto1.png)
 
 ### Animal in Distress
 
 This will show HMAR's phone number.
+
+![](images/mockphoto2.png)
 
 ### Animal signting pages
 
@@ -74,4 +78,4 @@ The goal of Milestone 3 is optimize the web application for all devices.
 
 ## Team
 
-HMAR accplication is designed, implemented, and maintained by [Jacob Hardy](https://jakehardy95.github.io/), [Kelly Hwang](https://hwangkyh.github.io/), [Kiana Walters](https://kianaleilani.github.io/), [Kylie Higashionna](https://kyliehigashionna.github.io/), [Taryn Takebayashi](https://microtaryn.github.io/).
+HMAR application is designed, implemented, and maintained by [Jacob Hardy](https://jakehardy95.github.io/), [Kelly Hwang](https://hwangkyh.github.io/), [Kiana Walters](https://kianaleilani.github.io/), [Kylie Higashionna](https://kyliehigashionna.github.io/), [Taryn Takebayashi](https://microtaryn.github.io/).
