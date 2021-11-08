@@ -1,5 +1,9 @@
 ## Bloombugs HMAR Application
 
+<img class="ui centered medium image" src="photos/bloombugslogo.png">
+<img class="ui centered medium image" src="photos/kahukailogo.png">
+
+
 ## Table of contents
 
 * [Overview](#overview)
@@ -28,8 +32,8 @@ The landing page is presented to users when they visit the top-level URL to the 
 
 Click on the "Login" button in the upper right corner of the navbar, then select "Sign in" to go to the following page and login.
 
-![](images/mockphotoregister.png)
-![](images/mockphotologin.png)
+![](photos/mockphotoregister.png)
+![](photos/mockphotologin.png)
 
 ### Profile edit page
 
@@ -39,20 +43,20 @@ Allows user to store the information about the user.
 
 After logging in as a public user, you are taken to public user landing page which will display three buttons: Animal in distress, Animal sighting, and More information. The enter a new report page for the admin user will redircted to this page.
 
-![](images/mockphotopubliclanding.png)
+![](photos/mockphotopubliclanding.png)
 
 ### Animal in Distress
 
 This will show HMAR's phone number.
 
-![](images/mockphotodistress.png)
+![](photos/mockphotodistress.png)
 
 ### Animal signting pages
 
 The will four different pages with the same layout. It will be the seal, bird, turtle, and other pages.
 
-![](images/mockphotoanimalsighting.png)
-![](images/mockphotofouranimals.png)
+![](photos/mockphotoanimalsighting.png)
+![](photos/mockphotofouranimals.png)
 
 ### Click for more information
 
@@ -66,7 +70,7 @@ After logging in as an admin user, you are taken to admin user landing page whic
 
 This is the record database for all the submitted forms.
 
-![](images/mockphotolookatreporst.png)
+![](photos/mockphotolookatreports.png)
 
 ## Development History
 
