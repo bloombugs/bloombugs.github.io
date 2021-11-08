@@ -1,1 +1,10 @@
+title: Bloombugs HMAR Application
+description: Animal reporting
+google_analytics:
+show_downloads: false
 theme: jekyll-theme-cayman
+github:
+  is_project_page: true
+  repository_url: https://github.com/bloombugs/bloombugs
+gems:
+  - jekyll-mentions
