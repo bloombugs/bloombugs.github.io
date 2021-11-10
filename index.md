@@ -1,6 +1,7 @@
 ## Bloombugs HMAR Application
 
 ![](photos/bloombugslogo.png)
+
 ![](photos/kahukailogo.png)
 
 ## Table of contents
@@ -42,7 +43,7 @@ Allows user to store the information about the user.
 
 After logging in as a public user, you are taken to public user landing page which will display three buttons: Animal in distress, Animal sighting, and More information. The enter a new report page for the admin user will redircted to this page.
 
-![](photos/mockphotopubliclanding.png)
+![](photos/hmarlanding.png)
 
 ### Animal in Distress
 
@@ -54,12 +55,16 @@ This will show HMAR's phone number.
 
 The will four different pages with the same layout. It will be the seal, bird, turtle, and other pages.
 
-![](photos/mockphotoanimalsighting.png)
-![](photos/mockphotofouranimals.png)
+![](photos/hmarfouranimal.png)
+![](photos/hmarsealform.png)
+![](photos/hmarturtleform.png)
+![](photos/hmarbirdform.png)
+![](photos/hmarotherpage.png)
 
 ### Click for more information
 
 This page will show the user how to spot an animal in distress.
+![](photos/hmarinfopage.png)
 
 ### Admin user landing page
 
