@@ -19,6 +19,8 @@ Our solution for HMAR HACC’s problem is a web browser application that will be
 
 For our Bloombugs project we are building off our HMAR HACC solution where we will have each user including the public users register and log in, to have an individual state for each account. It will be individualized through having the public users being able to view their history of past submitted reports. We also will add a function of editing one’s profile to make it more personalized for each user. We will be using the same tech stack as the HMAR HACC and also additional technologies such as ESLint, IDPM, Semantic UI/React.
 
+A link to the organization github where you can find all the repositories can be found [here](https://github.com/bloombugs)
+
 
 ## User Guide
 
