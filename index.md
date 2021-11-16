@@ -80,11 +80,11 @@ This is the record database for all the submitted forms.
 
 ### Milestone 1: Finish HACC application
 
-The goal of Milestone 1 is to finish the HACC application.
+The goal of Milestone 1 is to finish the HACC application. A link to our Milestone 1 project page can be found [here](https://github.com/bloombugs/application/projects/1)
 
 ### Milestone 2: Add users / admin functionality, “Beyond the Basics”
 
-The goal of Milestone 2 is to add public user and admin user functionality. "Beyond the basics" includes: database filter functionality; standardizing date, time, and locations, reporting seal identifying markings, identification of seabird species, updating "click for more information".
+The goal of Milestone 2 is to add public user and admin user functionality. "Beyond the basics" includes: database filter functionality; standardizing date, time, and locations, reporting seal identifying markings, identification of seabird species, updating "click for more information". The link to our Milestone 2 project page can be found [here](https://github.com/bloombugs/application/projects/2)
 
 ## Milestone 3: Polishing and optimizing for all devices
 
