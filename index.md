@@ -104,7 +104,7 @@ The goal of Milestone 1 is to finish the HACC application. A link to our Milesto
 
 The goal of Milestone 2 is to add public user and admin user functionality. "Beyond the basics" includes: database filter functionality; standardizing date, time, and locations, reporting seal identifying markings, identification of seabird species, updating "click for more information". The link to our Milestone 2 project page can be found [here](https://github.com/bloombugs/application/projects/2)
 
-## Milestone 3: Polishing and optimizing for all devices
+### Milestone 3: Polishing and optimizing for all devices
 
 The goal of Milestone 3 is optimize the web application for all devices. 
 
