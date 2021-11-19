@@ -33,8 +33,8 @@ The landing page is presented to users when they visit the top-level URL to the 
 
 Click on the "Login" button in the upper right corner of the navbar, then select "Sign in" to go to the following page and login.
 
-![](photos/mockphotoregister.png)
-![](photos/mockphotologin.png)
+![](photos/kahukaisignin.png)
+![](photos/kahukaisignup.png)
 
 ### Profile edit page
 
@@ -44,28 +44,28 @@ Allows user to store the information about the user.
 
 After logging in as a public user, you are taken to public user landing page which will display three buttons: Animal in distress, Animal sighting, and More information. The enter a new report page for the admin user will redircted to this page.
 
-![](photos/hmarlanding.png)
+![](photos/kahukailandingpage.png)
 
 ### Animal in Distress
 
 This will show HMAR's phone number.
 
-![](photos/mockphotodistress.png)
+![](photos/kahukaidistress.png)
 
 ### Animal signting pages
 
 The will four different pages with the same layout. It will be the seal, bird, turtle, and other pages.
 
-![](photos/hmarfouranimal.png)
-![](photos/hmarsealform.png)
-![](photos/hmarturtleform.png)
-![](photos/hmarbirdform.png)
-![](photos/hmarotherpage.png)
+![](photos/kahukaianimalreport.png)
+![](photos/kahukaisealform.png)
+![](photos/kahukaiturtleform.png)
+![](photos/kahukaibirdform.png)
+![](photos/otherdistressinfo.png)
 
 ### Click for more information
 
 This page will show the user how to spot an animal in distress.
-![](photos/hmarinfopage.png)
+![](photos/kahukaianimalindistress.png)
 
 ### Admin user landing page
 
@@ -75,7 +75,11 @@ After logging in as an admin user, you are taken to admin user landing page whic
 
 This is the record database for all the submitted forms.
 
-![](photos/mockphotolookatreports.png)
+![](photos/adminreportlist.png)
+
+## Deployment
+
+Link to the deployed application running on Digital Ocean [here](http://147.182.184.239/).
 
 ## Development History
 
