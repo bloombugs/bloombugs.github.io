@@ -92,7 +92,7 @@ We have yet to received any community feedback as of now.
 
 ## Deployment
 
-![](photos/kahukailanding.png)
+![](photos/hmarlanding.png)
 
 Link to the deployed application running on Digital Ocean [here](http://147.182.184.239/).
 
