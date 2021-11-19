@@ -30,6 +30,8 @@ This section provides a walkthrough of the HMAR application user interface and i
 
 The landing page is presented to users when they visit the top-level URL to the site.
 
+![](photos/kahukailandingpage.png)
+
 ### Sign in and sign up
 
 Click on the "Login" button in the upper right corner of the navbar, then select "Sign in" to go to the following page and login.
@@ -45,7 +47,7 @@ Allows user to store the information about the user.
 
 After logging in as a public user, you are taken to public user landing page which will display three buttons: Animal in distress, Animal sighting, and More information. The enter a new report page for the admin user will redircted to this page.
 
-![](photos/kahukailandingpage.png)
+![](photos/kahukaiuserlanding.png)
 
 ### Animal in Distress
 
