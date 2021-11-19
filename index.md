@@ -8,6 +8,7 @@
 
 * [Overview](#overview)
 * [User Guide](#user-guide)
+* [Deployment](#deployment)
 * [Development History](#development-history)
 * [Team](#team)
 
