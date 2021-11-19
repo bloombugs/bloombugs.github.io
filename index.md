@@ -8,9 +8,10 @@
 
 * [Overview](#overview)
 * [User Guide](#user-guide)
+* [Community Feedback](#community-feedback)
 * [Deployment](#deployment)
 * [Development History](#development-history)
-* [Team](#team)
+* [Contact Us](#contact-us)
 
 ## Overview
 
@@ -24,7 +25,7 @@ For our Bloombugs project we are building off our HMAR HACC solution where we wi
 
 ## User Guide
 
-This section provides a walkthrough of the HMAR application user interface and its capabilities.
+This section provides a walk-through of the HMAR application user interface and its capabilities.
 
 ### Landing Page
 
@@ -84,6 +85,11 @@ This is the record database for all the submitted forms.
 
 ![](photos/adminreportlist.png)
 
+## Community Feedback
+
+We have yet to received any community feedback as of now.
+
+
 ## Deployment
 
 Link to the deployed application running on Digital Ocean [here](http://147.182.184.239/).
@@ -103,6 +109,8 @@ The goal of Milestone 2 is to add public user and admin user functionality. "Bey
 The goal of Milestone 3 is optimize the web application for all devices. 
 
 
-## Team
+## Contact US
+
+### Our Team
 
 HMAR application is designed, implemented, and maintained by [Jacob Hardy](https://jakehardy95.github.io/), [Kelly Hwang](https://hwangkyh.github.io/), [Kiana Walters](https://kianaleilani.github.io/), [Kylie Higashionna](https://kyliehigashionna.github.io/), [Taryn Takebayashi](https://microtaryn.github.io/).
