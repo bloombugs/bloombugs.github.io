@@ -58,7 +58,7 @@ This will show HMAR's phone number.
 
 ### Animal sighting pages
 
-The will four different pages with the same layout. It will be the seal, bird, turtle, and other pages.
+This will show four different pages with the same layout. It will be the seal, bird, turtle, and other pages.
 
 ![](photos/kahukaianimalreport.png)
 ![](photos/kahukaisealform.png)
@@ -92,7 +92,7 @@ We have yet to received any community feedback as of now.
 
 ## Deployment
 
-![](photos/kahukaideployment.png)
+![](photos/kahukailanding.png)
 
 Link to the deployed application running on Digital Ocean [here](http://147.182.184.239/).
 
