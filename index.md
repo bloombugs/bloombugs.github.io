@@ -69,6 +69,10 @@ The will four different pages with the same layout. It will be the seal, bird, t
 
 This page will show the user how to spot an animal in distress.
 ![](photos/kahukaianimalindistress.png)
+![](photos/sealdistressinfo.png)
+![](photos/turtledistressinfo.png)
+![](photos/birddistressinfo.png)
+![](photos/otherdistressinfo.png)
 
 ### Admin user landing page
 
