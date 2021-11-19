@@ -56,7 +56,7 @@ This will show HMAR's phone number.
 
 ![](photos/kahukaidistress.png)
 
-### Animal signting pages
+### Animal sighting pages
 
 The will four different pages with the same layout. It will be the seal, bird, turtle, and other pages.
 
