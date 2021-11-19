@@ -31,7 +31,7 @@ This section provides a walk-through of the HMAR application user interface and 
 
 The landing page is presented to users when they visit the top-level URL to the site.
 
-![](photos/kahukailandingpage.png)
+![](photos/hmarlanding.png)
 
 ### Sign in and sign up
 
@@ -56,7 +56,7 @@ This will show HMAR's phone number.
 
 ![](photos/kahukaidistress.png)
 
-### Animal signting pages
+### Animal sighting pages
 
 The will four different pages with the same layout. It will be the seal, bird, turtle, and other pages.
 
