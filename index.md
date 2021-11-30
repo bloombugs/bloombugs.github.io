@@ -37,8 +37,10 @@ The landing page is presented to users when they visit the top-level URL to the 
 
 Click on the "Login" button in the upper right corner of the navbar, then select "Sign in" to go to the following "Login to your account" page and login. There is a "Sign up" button to go to the "Register your account page". There also is a "Admin sign up" button to go to the "Register your admin account".
 
+![](photos/kahukailoginbutton.png)
 ![](photos/kahukaisignin.png)
 ![](photos/kahukaisignup.png)
+![](photos/kahukaiadminsignup.png)
 
 ### Profile edit page
 
@@ -48,7 +50,7 @@ Allows user to store the information about the user.
 
 After logging in as a public user, you are taken to public user landing page which will display three buttons: Animal in distress, Animal sighting, and More information. The enter a new report page for the admin user will redircted to this page.
 
-![](photos/kahukaiuserlanding.png)
+![](photos/kahukaipublicuserlanding.png)
 
 ### Animal in Distress
 
@@ -62,28 +64,33 @@ This will show four different pages with the same layout. It will be the seal, b
 
 ![](photos/kahukaianimalreport.png)
 ![](photos/kahukaisealform.png)
-![](photos/kahukaiturtleform.png)
-![](photos/kahukaibirdform.png)
-![](photos/otherdistressinfo.png)
+![](photos/turtle-sighting_M2.png)
+![](photos/bird-sighting_M2.png)
+![](photos/kahukaiotherdistress.png)
 
 ### Click for more information
 
 This page will show the user how to spot an animal in distress.
 ![](photos/kahukaianimalindistress.png)
-![](photos/sealdistressinfo.png)
-![](photos/turtledistressinfo.png)
-![](photos/birddistressinfo.png)
-![](photos/otherdistressinfo.png)
+![](photos/kahukaisealdistress.png)
+![](photos/kahukaiturtledistress.png)
+![](photos/kahukaibirddistress.png)
+![](photos/kahukaiotherdistress.png)
 
 ### Admin user landing page
 
 After logging in as an admin user, you are taken to admin user landing page which will display two buttons: Report a sighting and Look at Records. Clicking the report a sighting will redirect to the public user landing page. Clicking the look at records will redirect to the Look at records page. 
 
+![](photos/kahukaiadminlanding.png)
+
 ### Look at records page
 
 This is the record database for all the submitted forms.
 
-![](photos/adminreportlist.png)
+![](photos/kahukaisealreport.png)
+![](photos/kahukaiturtlereport.png)
+![](photos/kahukaibirdreport.png)
+![](photos/kahukaidistressreport.png)
 
 ## Community Feedback
 
