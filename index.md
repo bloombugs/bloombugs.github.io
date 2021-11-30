@@ -33,9 +33,9 @@ The landing page is presented to users when they visit the top-level URL to the 
 
 ![](photos/hmarlanding.png)
 
-### Sign in and sign up
+### Sign in, Sign up, Admin Sign up
 
-Click on the "Login" button in the upper right corner of the navbar, then select "Sign in" to go to the following page and login.
+Click on the "Login" button in the upper right corner of the navbar, then select "Sign in" to go to the following page and login. There also is an admin sign up page which allows for new admins to make accounts. 
 
 ![](photos/kahukaisignin.png)
 ![](photos/kahukaisignup.png)
