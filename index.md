@@ -125,7 +125,9 @@ The goal of Milestone 1 is to finish the HACC application. A link to our Milesto
 The goal of Milestone 2 is to add public user and admin user functionality. "Beyond the basics" includes: database filter functionality; standardizing date, time, and locations, reporting seal identifying markings, identification of seabird species, updating "click for more information". The link to our Milestone 2 project page can be found [here](https://github.com/bloombugs/application/projects/2)
 
 The issues that we have completed for Milestone 2 are as follows:
-* Merged with HACC: issue-06, changing Navbar options for admin user only; issue-07, make table of records page for the sea turtle records; issue-11, update the sea bird form for drop down; issue-12, make a table of records page for the sea bird records; issue-13, make a table of records page for the monk seal
+* Merged with HACC: issue-06, changing Navbar options for admin user only; issue-07, make table of records page for the sea turtle records; issue-11, update the sea bird form for drop down; issue-12, make a table of records page for the sea bird records; issue-13, make a table of records page for the monk seal, issue-15, update the monk seal form for drop down; issue-22, update the sea turtle form for drop down; issue-24, distress admin database; issue-25, style the form pages; issue-28, fix buttons clicking.
+* Issue-21, make clickable images to fill text areas for sea bird and sea turtles species.
+* Issue-31, boost sign up page so that another admin can sign up/register.
 
 ### Milestone 3: Polishing and optimizing for all devices
 
