@@ -35,7 +35,7 @@ The landing page is presented to users when they visit the top-level URL to the 
 
 ### Sign in, Sign up, Admin Sign up
 
-Click on the "Login" button in the upper right corner of the navbar, then select "Sign in" to go to the following page and login. There also is an admin sign up page which allows for new admins to make accounts. 
+Click on the "Login" button in the upper right corner of the navbar, then select "Sign in" to go to the following "Login to your account" page and login. There is a "Sign up" button to go to the "Register your account page". There also is a "Admin sign up" button to go to the "Register your admin account".
 
 ![](photos/kahukaisignin.png)
 ![](photos/kahukaisignup.png)
