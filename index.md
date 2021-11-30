@@ -98,19 +98,19 @@ Currently the app can be accessed via the deployed application running on Digita
 
 Link to the deployed application running on Digital Ocean [here](http://147.182.184.239/). You can log in as an admin with "admin@foo.com" with password "changeme" or as a regular user with "john@foo.com" with password "changeme". You can also create a new regular user by clicking on "Login" on the right hand corner of the Navbar and selecting "Sign up" from the dropdown menu.
 
-// insert photo of github repo
+![](photos/deploymentopenfile.png)
 
 To deploy locally on your machine, clone the [application repository](https://github.com/bloombugs/application) to your machine. After cloning the repository, open Terminal on Mac or Command Shell on PC. To access the cloned repository type "cd" into the path of its folder in Terminal/Command Shell. Then, once in the local repository folder, "cd app" to begin deployment. 
 
-// photo of terminal with cd, cd app, meteor reset blah blah
+![](photos/deploymentrun.png)
 
 Once in the app folder, type "meteor npm install" in Terminal/Command Shell to install meteor which runs the application. You may have to wait for a while for meteor to finish installing. After meteor installation, type "meteor reset" in Terminal/Command Shell which resets the database and also initializes two default users, 1) "admin@foo.com", an admin user and 2) "john@foo.com", a regular user. Currently, the default passwords for both of the users is "changeme" on the application. To then run the application, type "meteor npm run start" in Terminal/Command Shell and the application will begin to run. Once "App running at: http://localhost:3000/" shows up on the Terminal/Command Shell, you can access your locally deployed application in a web browser, preferably Chrome, at http://localhost:3000/. If deployment is successful, the landing page should show up in your web browser.
 
-// photo of opening intellij idea open cloning directory
+![](photos/deploymentdesktop.png)
 
 To modify the system, first make a branch on whichever GitHub client you are using; make sure not to make any changes on the "master" branch. Change to the newly made branch then open IntelliJ IDEA and open the cloned repository directory. Please do not change anything in any folder other than "app". Once the project is opened in IntelliJ IDEA, you can change anything as required. Most of the functionality will be located in folders "app/client", "app/imports", and "app/public". Folder "app/client" contains the main HTML and Javascript files, along with the style.css file. Folder "app/imports" contains the folders "api", "startup", and "ui", which is where the bulk of the application is located, i.e. the components/layout/pages in "ui". Folder "app/public" contains all of the images that are on the application. 
 
-// photo of intellij with folders
+![](photos/deploymentfolders.png)
 
 Please refrain from deleting anything or changing the names of any files or exports as the application is very modular and multiple components will import/access different files and exports. Once you have made any changes to the application, feel free to push the changes on the branch that you have checked out. 
 
