@@ -103,7 +103,7 @@ Currently the app can be accessed via the deployed application running on Digita
 
 ![](photos/hmarlanding.png)
 
-Link to the deployed application running on Digital Ocean [here](http://147.182.184.239/). You can log in as an admin with "admin@foo.com" with password "changeme" or as a regular user with "john@foo.com" with password "changeme". You can also create a new regular user by clicking on "Login" on the right hand corner of the Navbar and selecting "Sign up" from the dropdown menu.
+Here is the link to the deployed application running on [Digital Ocean](http://147.182.184.239/). You can log in as an admin with "admin@foo.com" with password "changeme" or as a regular user with "john@foo.com" with password "changeme". You can also create a new regular user by clicking on "Login" on the right hand corner of the Navbar and selecting "Sign up" from the dropdown menu.
 
 ![](photos/deploymentopenfile.png)
 
@@ -125,7 +125,9 @@ Please refrain from deleting anything or changing the names of any files or expo
 
 ### Milestone 1: Finish HACC application
 
-The goal of Milestone 1 is to finish the HACC application. A link to our Milestone 1 project page can be found [here](https://github.com/bloombugs/application/projects/1)
+The goal of Milestone 1 is to finish the HACC application. The link to our Milestone 1 project page can be found [here](https://github.com/bloombugs/application/projects/1). 
+
+The issues that we have complete
 
 ### Milestone 2: Add users / admin functionality, “Beyond the Basics”
 
@@ -134,15 +136,31 @@ The goal of Milestone 2 is to add public user and admin user functionality. "Bey
 The issues that we have completed for Milestone 2 are as follows:
 * Merged with HACC: issue-06, changing Navbar options for admin user only; issue-07, make table of records page for the sea turtle records; issue-11, update the sea bird form for drop down; issue-12, make a table of records page for the sea bird records; issue-13, make a table of records page for the monk seal, issue-15, update the monk seal form for drop down; issue-22, update the sea turtle form for drop down; issue-24, distress admin database; issue-25, style the form pages; issue-28, fix buttons clicking.
 * Issue-21, make clickable images to fill text areas for sea bird and sea turtles species.
+* Issue-26, allow admin users to edit submitted distress forms for all users.
 * Issue-31, boost sign up page so that another admin can sign up/register.
+* Issue-34, create the testcafe acceptance tests for local running and on Github.
 
-### Milestone 3: Polishing and optimizing for all devices
+### Milestone 3: User functionality and UI/UX, "Secret Sauce"
 
-The goal of Milestone 3 is optimize the web application for all devices. 
+The goal of Milestone 3 is to add more user functionality, improve the UI/UX, and add our special "secret sauce" that makes our application truly unique. The link to our Milestone 3 project page can be found [here](https://github.com/bloombugs/application/projects/4).
 
+The immediate issues that are to be completed for Milestone 3 are as follows:
+* Issue-05, make the admin user landing page to have a button to go to the "report a sighting" page and another button to go to the "look at records" page.
+* Issue-27, allow admin user to delete forms that have already been submitted.
+* Issue-29, update the Navbar to be more user-friendly with improved UI/UX.
+* Issue-32, fix a refresh error for admin user sign-up so that it is automatically refreshed and does not require user to manually refresh.
+* Issue-40, add functionality so that admin users can edit the three animals submitted sighting forms.
+Besides these issues, other issues that will be addressed in Milestone 3 include, but are not limited to: allowing regular users to access and edit their personal report history, display notifications upon reports submission, randomizing backgrounds, updating the CSS style files to optimize the web application for all devices, and further testcafe acceptance tests.
 
-## Contact US
+## Contact Us
 
 ### Our Team
 
 HMAR application is designed, implemented, and maintained by [Jacob Hardy](https://jakehardy95.github.io/), [Kelly Hwang](https://hwangkyh.github.io/), [Kiana Walters](https://kianaleilani.github.io/), [Kylie Higashionna](https://kyliehigashionna.github.io/), [Taryn Takebayashi](https://microtaryn.github.io/).
+
+### In the News
+
+The HACC version of the HMAR application won 2nd place in the Hawai'i Annual Code Challenge 2021. 
+
+* [HACC News Releases: 2021 Hawai'i Annual Code Challenge Winners Are...](https://hacc.hawaii.gov/main/2021-hawaii-annual-code-challenge-winners-are/)
+* [University of Hawai'i News: UH students code their way to victory in statewide contest](https://hawaii.edu/news/2021/11/26/students-code-statewide-contest/)
