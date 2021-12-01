@@ -120,7 +120,7 @@ We have yet to received any community feedback as of now.
 
 ## Deployment Guide
 
-Currently the app can be accessed via the deployed application running on Digital Ocean or by deploying both locally on your local machine.
+Currently the app can be accessed via the deployed application running on Digital Ocean or by deploying locally on your machine.
 
 ![](photos/hmarlanding.png)
 
