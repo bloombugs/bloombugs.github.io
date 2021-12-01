@@ -31,11 +31,11 @@ This section provides a walk-through of the HMAR application user interface and 
 
 The landing page is presented to users when they visit the top-level URL to the site.
 
-![](photos/hmarlanding.png)
+![](photos/kahukaitoplanding.png)
 
 ### Sign in, Sign up, Admin Sign up
 
-Click on the "Login" button in the upper right corner of the navbar, then select "Sign in" to go to the following "Login to your account" page and login. There is a "Sign up" button to go to the "Register your account page". There also is a "Admin sign up" button to go to the "Register your admin account".
+Click on the "Login" button in the upper right corner of the navbar, then select "Sign in" to go to the following "Login to your account" page and login. There is a "Sign up" button to go to the "Register your account page" which lets new users make an account. There also is a "Admin sign up" button to go to the "Register your admin account" which lets new admins create new accounts.
 
 ![](photos/kahukailoginbutton.png)
 ![](photos/kahukaisignin.png)
@@ -54,13 +54,13 @@ After logging in as a public user, you are taken to public user landing page whi
 
 ### Animal in Distress
 
-This will show HMAR's phone number.
+This will show HMAR's phone number. It also will let the user fill out an animal distress form in the case they cannot call the number on the site. 
 
 ![](photos/kahukaidistress.png)
 
 ### Animal sighting pages
 
-This will show four different pages with the same layout. It will be the seal, bird, turtle, and other pages.
+This will show four different buttons for the seal form, bird form, turtle form and other page. The form takes in the Date, Time, Animal Name, Name of Person, Phone Number, Location, Description, Markers, Number of People, and Image. The Turtle and Bird signing forms allow for the user to click on the photo to specify the type of turtle or birds spotted. The other page will let the user know that HMAR does no deal with any other type of animal besides Seal, Turtle, and Sea Bird, but there are other organizations that can help. 
 
 ![](photos/kahukaianimalreport.png)
 ![](photos/kahukaisealform.png)
@@ -70,7 +70,7 @@ This will show four different pages with the same layout. It will be the seal, b
 
 ### Click for more information
 
-This page will show the user how to spot an animal in distress.
+This will show four different buttons for information on how to tell if the seal, bird, or turtle are in distress and an other page. The information pages will give the user a general bullet-pointed list on telling whether an animal is distressed. There also is a link to the phone number as well as the distress form. The other page will let the user know that HMAR does no deal with any other type of animal besides Seal, Turtle, and Sea Bird, but there are other organizations that can help.
 ![](photos/kahukaianimalindistress.png)
 ![](photos/kahukaisealdistress.png)
 ![](photos/kahukaiturtledistress.png)
@@ -79,13 +79,13 @@ This page will show the user how to spot an animal in distress.
 
 ### Admin user landing page
 
-After logging in as an admin user, you are taken to admin user landing page which will display two buttons: Report a sighting and Look at Records. Clicking the report a sighting will redirect to the public user landing page. Clicking the look at records will redirect to the Look at records page. 
+After logging in as an admin user, you are taken to admin user landing page which will display two buttons: Report a sighting and Look at Records. In the navbar the admin can look through the Seal, Turtle, Bird, and Distress records.
 
 ![](photos/kahukaiadminlanding.png)
 
 ### Look at records page
 
-This is the record database for all the submitted forms.
+There is a record table for the Seal, Turtle, Sea Bird, and Distressed animal. The record table shows the information that was submitted on the forms by the users. 
 
 ![](photos/kahukaisealreport.png)
 ![](photos/kahukaiturtlereport.png)
