@@ -1,6 +1,6 @@
 ## Bloombugs HMAR Application
-<img src="photos/bloombugslogo.png" width="45%">
-<img src="photos/kahukailogo.png" width="45%">
+<img src="photos/bloombugslogo.png" width="40%">
+<img src="photos/kahukailogo.png" width="40%">
 
 ## Table of contents
 
