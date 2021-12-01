@@ -124,7 +124,7 @@ Currently the app can be accessed via the deployed application running on Digita
 
 ![](photos/hmarlanding.png)
 
-Here is the link to the deployed application running on [Digital Ocean](http://147.182.184.239/). You can log in as an admin with "admin@foo.com" with password "changeme" or as a regular user with "john@foo.com" with password "changeme". You can also create a new regular user by clicking on "Login" on the right hand corner of the Navbar and selecting "Sign up" from the dropdown menu.
+Here is the link to the deployed application running on [Digital Ocean](http://165.232.156.4/). You can log in as an admin with "admin@foo.com" with password "changeme" or as a regular user with "john@foo.com" with password "changeme". You can also create a new regular user by clicking on "Login" on the right hand corner of the Navbar and selecting "Sign up" from the dropdown menu.
 
 ![](photos/deploymentopenfile.png)
 
@@ -170,6 +170,7 @@ The issues that we have completed for Milestone 2 are as follows:
 * Issue-26, allow admin users to edit submitted distress forms for all users.
 * Issue-31, boost sign up page so that another admin can sign up/register.
 * Issue-34, create the testcafe acceptance tests for local running and on Github.
+* Issue-42, re-deploy all Milestone 2 resolved issues and most updated version of the application on Digital Ocean.
 
 ### Milestone 3: User functionality and UI/UX, "Secret Sauce"
 
@@ -196,3 +197,4 @@ The HACC version of the HMAR application won 2nd place in the Hawai'i Annual Cod
 
 * [HACC News Releases: 2021 Hawai'i Annual Code Challenge Winners Are...](https://hacc.hawaii.gov/main/2021-hawaii-annual-code-challenge-winners-are/)
 * [University of Hawai'i News: UH students code their way to victory in statewide contest](https://hawaii.edu/news/2021/11/26/students-code-statewide-contest/)
+* Our previous iteration on [Digital Ocean](http://147.182.184.239/)
