@@ -127,7 +127,17 @@ Please refrain from deleting anything or changing the names of any files or expo
 
 The goal of Milestone 1 is to finish the HACC application. The link to our Milestone 1 project page can be found [here](https://github.com/bloombugs/application/projects/1). 
 
-The issues that we have complete
+The issues that we have completed for Milestone 1 have all been merged with the HACC branch and are as follows:
+* Issue-03, make the sign-in page so a user can sign into their accounts and add to the Navbar.
+* Issue-04, make the sign-up page so a user can make an account.
+* Issue-08, make the distress info page for the monk seals so a user can identify if a monk seal is in distress.
+* Issue-09, make the distress info page for the sea birds so a user can identify if a sea bird is in distress.
+* Issue-10, make the distress info page for the sea turtles so a user can identify if a sea turtle is in distress.
+* Issue-14, fix the buttons for choosing an animal as previously only clicking directly on the text, instead of any place on the button, worked.
+* Issue-16, update the selection of locations for all forms using a map of O'ahu.
+* Issue-17, implement clickable images to populate a text field.
+* Issue-19, deploy the application on Digital Ocean.
+* Issue-23, update the landing page with basic information about the application and HMAR along with application navigation assistance.
 
 ### Milestone 2: Add users / admin functionality, “Beyond the Basics”
 
