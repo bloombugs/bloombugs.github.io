@@ -1,8 +1,6 @@
 ## Bloombugs HMAR Application
-![](photos/bloombugslogo.png)
-<img src="photos/bloombugslogo.png" width="100">
-
-![](photos/kahukailogo.png)
+<img src="photos/bloombugslogo.png" width="200">
+<img src="photos/kahukailogo.png" width="200">
 
 ## Table of contents
 
