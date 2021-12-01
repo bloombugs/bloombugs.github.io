@@ -161,6 +161,7 @@ The immediate issues that are to be completed for Milestone 3 are as follows:
 * Issue-29, update the Navbar to be more user-friendly with improved UI/UX.
 * Issue-32, fix a refresh error for admin user sign-up so that it is automatically refreshed and does not require user to manually refresh.
 * Issue-40, add functionality so that admin users can edit the three animals submitted sighting forms.
+
 Besides these issues, other issues that will be addressed in Milestone 3 include, but are not limited to: allowing regular users to access and edit their personal report history, display notifications upon reports submission, randomizing backgrounds, updating the CSS style files to optimize the web application for all devices, and further testcafe acceptance tests.
 
 ## Contact Us
