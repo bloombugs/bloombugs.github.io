@@ -91,6 +91,7 @@ There is a record table for the Seal, Turtle, Sea Bird, and Distressed animal. T
 ![](photos/kahukaiturtlereport.png)
 ![](photos/kahukaibirdreport.png)
 ![](photos/kahukaidistressreport.png)
+![](photos/kahukaidistressreportedit.png)
 
 ## Community Feedback
 
