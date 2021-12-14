@@ -115,7 +115,12 @@ Currently there are only editing capabilities for the "Distress Animals" reports
 
 ## Community Feedback
 
-We have yet to received any community feedback as of now.
+The feedback asked what people liked and disliked about our app and what could be added or changed to make the app better. Below are the comments of some members of the community: 
+"I liked that you can report different animals seperating. I wouldn't mind a live chatting feature." - Nelson L.
+"I like the ease of being able to select the animal and location quickly. Also being able to upload photos was nice. I think making the map a little easier to navigate for the pins would be good." - Natalie W.
+"I like the infor on animals and distress signs like what to look for. I also liked that you gave references for other animals like whales. It was kinda hard to see the definition for the pages." - Melanie P.
+"Very informational when an animal is in distress, I liked the interactive map. Adding links to the other organizations because HMAR doesn't respond to other animals would be cool" - Matt P.
+"Easy to read and understand, being able to drop a pin would be cool because I don't know what landmarks are around or if I don't know what beach" - Mila S. 
 
 
 ## Deployment Guide
