@@ -187,7 +187,7 @@ The immediate issues that we have completed for Milestone 3 are as follows:
 * Issue-35, allow regular users to look at their report history.
 * Issue-44, add default data to seed the application with realistic data.
 * Issue-45, ask the community for feedback about the application.
-
+xxxxx
 
 * Issue-05, make the admin user landing page to have a button to go to the "report a sighting" page and another button to go to the "look at records" page.
 * Issue-29, update the Navbar to be more user-friendly with improved UI/UX.
