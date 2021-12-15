@@ -15,9 +15,9 @@
 
 For HACC 2021, we decided to choose the challenge proposed by NIC Hawaii, the Hawaii Marine Animal Response (HMAR) Sighting & Reporting App. Currently HMAR handles all animal sighting reports by phone. HMAR and NIC mentioned that they would like to have the ability to handle reports via an application as well - to decrease the amount of phone traffic and confusion as well as make it easier to record each sighting.
 
-Our solution for HMAR HACC’s problem is a web browser application that will be accessible on both mobile and computer. We will have different landing pages for the public users who are reporting animal sightings on the go and for the admin users accounts who are the HMAR staff that are managing the sighting reports database. There will be a login page for the admin users to access these additional capabilities. The public users will be shown a landing page with a link to the animal in distress form, animal sighting form, and a more information page. The admin users will have a landing page with a link to submitting a report, or viewing a log of all past submitted reports. When a report is submitted it will be added to the list of records that the admin users view. We are using Meteor etc. to create the application and Mongo will be used to store the animal sightings. Using Meteor will allow the application to be supported on a web browser and mobile devices. The application will be hosted on a Digital Ocean droplet. 
+Our solution for HMAR HACC’s problem is the Kahukai web browser application that will be accessible on both mobile and computer. We have different landing pages for the public users who are reporting animal sightings on the go and for the admin users accounts who are the HMAR staff that are managing the sighting reports database. There is a login page for the admin users to access these additional capabilities. The public users are shown a landing page with a link to the animal in distress form, animal sighting forms, and a more information page. The admin users have a landing page with a link to submitting a report, and a link to view logs of all past submitted reports. When a report is submitted it will be added to the list of records that the admin users view. We are using Meteor to create the application and MongoDB will be used to store the animal sightings. Using Meteor will allow the application to be supported on a web browser and mobile devices. The application will be hosted on a Digital Ocean droplet. 
 
-For our Bloombugs project we are building off our HMAR HACC solution where we will have each user including the public users register and log in, to have an individual state for each account. It will be individualized through having the public users being able to view their history of past submitted reports. We also will add a function of editing one’s profile to make it more personalized for each user. We will be using the same tech stack as the HMAR HACC and also additional technologies such as ESLint, IDPM, Semantic UI/React.
+For our Bloombugs project in ICS 314 we built off our HMAR HACC solution where we have each user including the public users register and log in, to have an individual state for each account. It is individualized through having the public users being able to view their history of past submitted reports. We also added a function of admin users being able to edit and delete the submitted reports. We use the same tech stack as the HMAR HACC and also additional technologies such as ESLint, IDPM, Semantic UI/React; the application is stylized aesthetically and optimized for access on most standard devices.
 
 
 
@@ -181,14 +181,22 @@ The issues that we have completed for Milestone 2 are as follows:
 
 The goal of Milestone 3 is to add more user functionality, improve the UI/UX, and add our special "secret sauce" that makes our application truly unique. The link to our Milestone 3 project page can be found [here](https://github.com/bloombugs/application/projects/4).
 
-The immediate issues that are to be completed for Milestone 3 are as follows:
-* Issue-05, make the admin user landing page to have a button to go to the "report a sighting" page and another button to go to the "look at records" page.
+The immediate issues that we have completed for Milestone 3 are as follows:
 * Issue-27, allow admin user to delete forms that have already been submitted.
-* Issue-29, update the Navbar to be more user-friendly with improved UI/UX.
 * Issue-32, fix a refresh error for admin user sign-up so that it is automatically refreshed and does not require user to manually refresh.
-* Issue-40, add functionality so that admin users can edit the three animals submitted sighting forms.
+* Issue-35, allow regular users to look at their report history.
+* Issue-44, add default data to seed the application with realistic data.
+* Issue-45, ask the community for feedback about the application.
 
-Besides these issues, other issues that will be addressed in Milestone 3 include, but are not limited to: allowing regular users to access and edit their personal report history, display notifications upon reports submission, randomizing backgrounds, updating the CSS style files to optimize the web application for all devices, and further testcafe acceptance tests.
+
+* Issue-05, make the admin user landing page to have a button to go to the "report a sighting" page and another button to go to the "look at records" page.
+* Issue-29, update the Navbar to be more user-friendly with improved UI/UX.
+* Issue-36, further testcafe acceptance tests for all of the updated functionality.
+* Issue-37, update the CSS style files for consistency and aesthetics.
+* Issue-38
+* Issue-40, add functionality so that admin users can edit the three animals submitted sighting forms.
+* Issue-41, optimize the web application for most devices.
+* Issue-46, re-deploy the finished application on a Digital Ocean droplet.
 
 ## Contact Us
 
