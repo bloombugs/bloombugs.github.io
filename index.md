@@ -96,11 +96,17 @@ The Other information page will let the user know that HMAR does not respond to 
 
 ### User Reports
 
+The users that have an account can view their past submissions. If the user has yet to make and reports, their tables will appear empty. 
+
 ![](photos/kahukaiuserreportlistthree.png)
+
+Below are examples of the User Report page for two different users. The reports that appear on the tables are unique to them.
 
 ![](photos/kahukaiuserreportlistfirst.png)
 
 ![](photos/kahukaiuserreportlisttwo.png)
+
+The admin users also are able to view reports that they have submitted. Since they submit reports that people call in, the admin user's report page will have different names associated with the different reports.
 
 ![](photos/kahukaiadminuserreportlist.png)
 
@@ -117,10 +123,11 @@ This page redirects to the record tables for the Seal, Turtle, Sea Bird, and Dis
 ![](photos/kahukaibirdreportpage.png)
 ![](photos/kahukaisealreportlist.png)
 ![](photos/kahukaiturtlereportlist.png)
-
-Currently there are only editing capabilities for the "Distress Animals" reports. To edit a specific distress report, the admin user can click on the "Edit" hyperlink which will direct the user to the "Edit Report" page.
-
 ![](photos/kahukaidistressreportlist.png)
+
+
+There are editing and deleting capabilities for the all the reports. For example, edit a specific distress report, the admin user can click on the "Edit" hyperlink which is below the red underlined Edit category which will direct the user to the "Edit Report" page. For example, delete a specific distress report, the admin user can click on the "Delete" hyperlink which is below the red underlined Delete category which will direct the user to the "Delete Report" page.
+
 ![](photos/kahukaieditdeletebuttonscolor.jpg)
 ![](photos/kahukaieditreport.png)
 ![](photos/kahukaideletereport.png)
