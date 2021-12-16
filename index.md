@@ -148,7 +148,7 @@ Currently the app can be accessed via the deployed application running on Digita
 
 ![](photos/hmarlanding.png)
 
-Here is the link to the deployed application running on [Digital Ocean](http://165.232.156.4/). You can log in as an admin with "admin@foo.com" with password "changeme" or as a regular user with "john@foo.com" with password "changeme". You can also create a new regular user by clicking on "Login" on the right hand corner of the Navbar and selecting "Sign up" from the dropdown menu.
+Here is the link to the deployed application running on [Digital Ocean](http://64.227.111.66/#/). You can log in as an admin with "admin@foo.com" with password "changeme" or as a regular user with "john@foo.com" with password "changeme". You can also create a new regular user by clicking on "Login" on the right hand corner of the Navbar and selecting "Sign up" from the dropdown menu.
 
 ![](photos/deploymentopenfile.png)
 
