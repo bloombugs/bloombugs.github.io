@@ -96,7 +96,7 @@ The Other information page will let the user know that HMAR does not respond to 
 
 ### User Reports
 
-The users that have an account can view their past submissions. If the user has yet to make and reports, their tables will appear empty. 
+The users that have an account can view their past submissions. If the user has yet to make any reports, their tables will appear empty. 
 
 ![](photos/kahukaiuserreportlistthree.png)
 
