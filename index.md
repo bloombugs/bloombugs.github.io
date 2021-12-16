@@ -37,15 +37,15 @@ The landing page is presented to all users when they visit the top-level URL to 
 
 Click on the "Login" dropdown in the right hand corner of the navbar, then select the "Sign In" navigation. This will bring you to the "Login to your account" page and login with your credentials. 
 
-![](photos/kahukaisignin.png)
+![](photos/kahukailoginpage.png)
 
 In the "Login" dropdown there is also a "Sign Up" navigation to go to the "Register your account" page which lets new regular users create a new account. 
 
-![](photos/kahukaisignup.png)
+![](photos/kahukaisignuppage.png)
 
 In the "Login" dropdown there is also a "Admin Sign Up" navigation to go to the "Register your admin account" page which lets new admins create new a new account. There is a unique "Admin Password" that is required to sign up as a new admin user which will only be known to the admin organization.
 
-![](photos/kahukaiadminsignup.png)
+![](photos/kahukaiadminsignuppage.png)
 
 ### Public User Landing Page
 
@@ -57,13 +57,13 @@ After logging in as a public user, you are taken to public user landing page whi
 
 This page shows a red "Click for Phone Call" button alongside HMAR's phone number which encourages users to first call to report an animal distress. Below that there is a green "Click for Online Form" button which will let the user fill out an animal distress form in the case they cannot call the number provided. 
 
-![](photos/kahukaidistress.png)
+![](photos/kahukaidistresspage.png)
 
 ### Animal Sighting
 
 This page show four different buttons with images for sighting reports according to the animal being reported: "Hawaiian Monk Seal", "Turtle", "Bird" and "Other". The forms all take in the date, time, animal name (species), name of person (reporting), phone number, location, description, markers, number of people (in the area of the animal), and image (preferably as a URL). 
 
-![](photos/kahukaianimalreport.png)
+![](photos/kahukaisightingbutton.png)
 
 As there is only one species of Hawaiian Monk Seal, there is no option to specify the type of seal spotted. There is an option to choose whether it is an adult, baby, or seal with pups in the "Animal name" field.
 
@@ -71,47 +71,59 @@ As there is only one species of Hawaiian Monk Seal, there is no option to specif
 
 The Turtle and Bird forms allow for the user to click on the photo to specify the type of turtle or birds spotted. 
 
-![](photos/turtle-sighting_M2.png)
-![](photos/bird-sighting_M2.png)
+![](photos/kahukaiturtleform.png)
+![](photos/kahukaibirdform.png)
 
 The Other form page will let the user know that HMAR does not respond to reportings of any other animals besides Hawaiian Monk Seals, Turtles, and Birds, but there are other organizations that can be contacted if wishing to make a report.
 
-![](photos/kahukaiotherdistress.png)
+![](photos/kahukaiotherpage.png)
 
 ### Click Here
 
 This page shows four different buttons for information on how to tell if the Hawaiian Monk Seal, Turtle, or Bird are in distress and an Other page. 
 
-![](photos/kahukaianimalindistress.png)
+![](photos/kahukaidistressinfopage.png)
 
 The distress information pages will give the user a general bullet-pointed list on telling whether an animal is distressed. Below the lists there is a warning to not approach the animal and to keep a distance in accordance with federal and state laws. There is also a button to call the HMAR phone number as well a button to submit a distress form. 
 
-![](photos/kahukaisealdistress.png)
-![](photos/kahukaiturtledistress.png)
-![](photos/kahukaibirddistress.png)
+![](photos/kahukaidistresssealinfo.png)
+![](photos/kahukaidistreeturtleinfo.png)
+![](photos/kahukaidistressbirdinfo.png)
 
 The Other information page will let the user know that HMAR does not respond to reportings of any other animals besides Hawaiian Monk Seals, Turtles, and Birds, but there are other organizations that can be contacted if wishing to make a report.
 
-![](photos/kahukaiotherdistress.png)
+![](photos/kahukaiotherpage.png)
+
+### User Reports
+
+![](photos/kahukaiuserreportlistthree.png)
+
+![](photos/kahukaiuserreportlistfirst.png)
+
+![](photos/kahukaiuserreportlisttwo.png)
+
+![](photos/kahukaiadminuserreportlist.png)
 
 ### Admin User Landing Page
 
 After logging in as an admin user, you are taken to the admin user landing page which will display two buttons: "Report a Sighting" and "Look at Records". The "Report a Sighting" button redirects the admin user to the public user landing page as described above. In the Navbar the admin can look through the Seal, Turtle, Bird, and Distress records.
 
-![](photos/kahukaiadminlanding.png)
+![](photos/kahukaiadminlandingpage.png)
 
 ### Look at Records
 
 This page redirects to the record tables for the Seal, Turtle, Sea Bird, and Distress Animals sightings. The record table shows the information that was submitted on the forms by all users. 
 
-![](photos/kahukaisealreport.png)
-![](photos/kahukaiturtlereport.png)
-![](photos/kahukaibirdreport.png)
+![](photos/kahukaisealreportlist.png)
+![](photos/kahukaiturtlereportlist.png)
+![](photos/kahukaibirdreportpage.png)
 
 Currently there are only editing capabilities for the "Distress Animals" reports. To edit a specific distress report, the admin user can click on the "Edit" hyperlink which will direct the user to the "Edit Report" page.
 
-![](photos/kahukaidistressreport.png)
-![](photos/kahukaidistressreportedit.png)
+![](photos/kahukaidistressreportlist.png)
+![](photos/kahukaieditdeletebuttons.png)
+![](photos/kahukaieditreport.png)
+![](photos/kahukaideletereport.png)
 
 ## Community Feedback
 
