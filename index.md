@@ -121,7 +121,7 @@ This page redirects to the record tables for the Seal, Turtle, Sea Bird, and Dis
 Currently there are only editing capabilities for the "Distress Animals" reports. To edit a specific distress report, the admin user can click on the "Edit" hyperlink which will direct the user to the "Edit Report" page.
 
 ![](photos/kahukaidistressreportlist.png)
-![](photos/kahukaieditdeletebuttons.png)
+![](photos/kahukaieditdeletebuttonscolor.jpg)
 ![](photos/kahukaieditreport.png)
 ![](photos/kahukaideletereport.png)
 
