@@ -29,7 +29,7 @@ This section provides a walk-through of the HMAR application user interface and 
 
 The landing page is presented to all users when they visit the top-level URL to the site.
 
-![](photos/kahukaitoplanding.png)
+![](photos/kahukaitoplandingpage.png)
 
 ### Sign In, Sign Up, Admin Sign Up
 
@@ -51,7 +51,7 @@ In the "Login" dropdown there is also a "Admin Sign Up" navigation to go to the 
 
 After logging in as a public user, you are taken to public user landing page which will display three buttons: "Animal in Distress", "Animal Sighting", and "Click Here". Currently, the "Report a Sighting" button on the admin landing page will redirect to this same public user landing page. 
 
-![](photos/kahukaipublicuserlanding.png)
+![](photos/kahukaiuserlandingpage.png)
 
 ### Animal in Distress
 
